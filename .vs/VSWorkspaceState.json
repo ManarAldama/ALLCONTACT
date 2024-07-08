@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\drupal-10.2.7",
+    "\\drupal-10.2.7\\core",
+    "\\drupal-10.2.7\\core\\config",
+    "\\drupal-10.2.7\\core\\config\\install",
+    "\\drupal-10.2.7\\vendor"
+  ],
+  "SelectedNode": "\\drupal-10.2.7\\core\\config\\install\\core.extension.yml",
+  "PreviewInSolutionExplorer": false
+}
